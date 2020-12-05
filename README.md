@@ -40,3 +40,9 @@ The wall moving on and it will come randomly in size and distances. The bird is 
 When the bird touches the anywhere of a wall it causes a collision. Collision detection is one of important task of the game. If the bird touches any wall (pipes) the game will end.
 ### Score Counting:
 Score counting is the interesting for user. By the score the player knows his/her performance. If the bird crosses a pipe without collision or not fall in ground his/her score increment one.
+
+## Screenshots
+### background image:
+![](https://github.com/KVM-Projects/FlappyBird/blob/main/data/background.jpeg)
+### bird image:
+![](https://github.com/KVM-Projects/FlappyBird/blob/main/data/bird.png)
