@@ -18,20 +18,18 @@ To create a fully functional application that runs a 2d game called flappy bird 
 
 ## Details of Hardware & Software
 ### Software specifications
-• Windows 64/32 bit.
-• IDE: An IDE (Integrated Development Environment) contains a
-code editor, a compiler or interpreter, and a debugger, accessed
-through a single graphical user interchange (GUI). Our IDE is Processing.
+* Windows 64/32 bit.
+* IDE: An IDE (Integrated Development Environment) contains a code editor, a compiler or interpreter, and a debugger, accessed through a single graphical user interchange (GUI). Our IDE is Processing.
 ### Hardware specifications(minimum)
-• Pentium 3 processor.
-• Processor speed of 300 MHZ and above.
+* Pentium 3 processor.
+* Processor speed of 300 MHZ and above.
 
 ## Implementation
 ### Algorithm
-a) Algorithm to display pictures correctly on monitor at first, how to transfer images to correct coordinate and display on the monitor will be our first challenge. We need an efficient way to convert our image into coordinate in frame buffer.
-b) Algorithm for image moving in our game, the image moving is the most important function we need to implement. Besides the background horizontal moving, the vertical jumping combining keyboard input is our second challenge.
-c) Game over condition setting in the process of the game, how to detect if the object satisfies the game over condition and the condition setting is our third problem.
-d) Adding and fixing some function We will revise our project and improving some details, for example: adding more interesting function and more complicating contents in our game.
+* Algorithm to display pictures correctly on monitor at first, how to transfer images to correct coordinate and display on the monitor will be our first challenge. We need an efficient way to convert our image into coordinate in frame buffer.
+* Algorithm for image moving in our game, the image moving is the most important function we need to implement. Besides the background horizontal moving, the vertical jumping combining keyboard input is our second challenge.
+* Game over condition setting in the process of the game, how to detect if the object satisfies the game over condition and the condition setting is our third problem.
+* Adding and fixing some function We will revise our project and improving some details, for example: adding more interesting function and more complicating contents in our game.
 ### 2D Animation:
 Animation is a complex subject in game programming. Animation is rapid display of sequence of images which creates an illusion of movement. Java games are expected to run on multiple operating systems with different hardware specifications.
 ### Objective Selection:
