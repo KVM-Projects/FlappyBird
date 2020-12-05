@@ -33,6 +33,16 @@ When the bird touches the anywhere of a wall it causes a collision. Collision de
 ### Score Counting:
 Score counting is the interesting for user. By the score the player knows his/her performance. If the bird crosses a pipe without collision or not fall in ground his/her score increment one.
 
+## Details of Hardware & Software
+### Software specifications
+* Windows 64/32 bit.
+* [PROCESSING](https://processing.org/)(IDE)
+***IDE (Integrated Development Environment) contains a code editor, a compiler or interpreter, and a debugger, accessed through a single graphical user interchange (GUI). 
+
+### Hardware specifications(minimum)
+* Pentium 3 processor.
+* Processor speed of 300 MHZ and above.
+
 ## Screenshots
 ### background image:
 ![](https://github.com/KVM-Projects/FlappyBird/blob/main/data/background.jpeg)
@@ -48,11 +58,3 @@ We choose the project to gain proper knowledge to make desktop application. It i
 * Splash Screen.
 * Bird skins and Background Textures will change according to Levels and User choice.
 * The status and the history will be saved and will be dynamically shown in a graph where user can see his total performance.
-
-## Details of Hardware & Software
-### Software specifications
-* Windows 64/32 bit.
-* IDE: An IDE (Integrated Development Environment) contains a code editor, a compiler or interpreter, and a debugger, accessed through a single graphical user interchange (GUI). Our IDE is [Processing](https://processing.org/).
-### Hardware specifications(minimum)
-* Pentium 3 processor.
-* Processor speed of 300 MHZ and above.
