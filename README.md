@@ -16,14 +16,6 @@ To create a fully functional application that runs a 2d game called flappy bird 
 * Objective selection
 * Collision detection
 
-## Details of Hardware & Software
-### Software specifications
-* Windows 64/32 bit.
-* IDE: An IDE (Integrated Development Environment) contains a code editor, a compiler or interpreter, and a debugger, accessed through a single graphical user interchange (GUI). Our IDE is Processing.
-### Hardware specifications(minimum)
-* Pentium 3 processor.
-* Processor speed of 300 MHZ and above.
-
 ## Implementation
 ### Algorithm
 * Algorithm to display pictures correctly on monitor at first, how to transfer images to correct coordinate and display on the monitor will be our first challenge. We need an efficient way to convert our image into coordinate in frame buffer.
@@ -46,3 +38,13 @@ Score counting is the interesting for user. By the score the player knows his/he
 ![](https://github.com/KVM-Projects/FlappyBird/blob/main/data/background.jpeg)
 ### bird image:
 ![](https://github.com/KVM-Projects/FlappyBird/blob/main/data/bird.png)
+### preview:
+![](https://github.com/KVM-Projects/FlappyBird/blob/main/data/video.gif)
+
+## Details of Hardware & Software
+### Software specifications
+* Windows 64/32 bit.
+* IDE: An IDE (Integrated Development Environment) contains a code editor, a compiler or interpreter, and a debugger, accessed through a single graphical user interchange (GUI). Our IDE is Processing.
+### Hardware specifications(minimum)
+* Pentium 3 processor.
+* Processor speed of 300 MHZ and above.
