@@ -57,3 +57,8 @@ We choose the project to gain proper knowledge to make desktop application. It i
 * Splash Screen.
 * Bird skins and Background Textures will change according to Levels and User choice.
 * The status and the history will be saved and will be dynamically shown in a graph where user can see his total performance.
+
+## References
+* https://en.wikipedia.org/wiki/Flappy_Bird
+* https://processing.org/
+* https://flappybird.io/
