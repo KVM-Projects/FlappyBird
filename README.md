@@ -41,6 +41,14 @@ Score counting is the interesting for user. By the score the player knows his/he
 ### preview:
 ![](https://github.com/KVM-Projects/FlappyBird/blob/main/data/video.gif)
 
+## Conclusion
+We choose the project to gain proper knowledge to make desktop application. It increased our knowledge for Object Oriented Language (JAVA) and getting experience in GUI through embedded JAVA. After the completion of this project we came to know how to work with Processing. With the completion of this project we have achieved a sense of happiness and we want to thank all those who helped us directly or indirectly to make this idea come true.
+
+## Future Work
+* Splash Screen.
+* Bird skins and Background Textures will change according to Levels and User choice.
+* The status and the history will be saved and will be dynamically shown in a graph where user can see his total performance.
+
 ## Details of Hardware & Software
 ### Software specifications
 * Windows 64/32 bit.
