@@ -43,9 +43,9 @@ Score counting is the interesting for user. By the score the player knows his/he
 * Processor speed of 300 MHZ and above.
 
 ## Screenshots
-### background image:
+### background:
 ![](https://github.com/KVM-Projects/FlappyBird/blob/main/data/background.jpeg)
-### bird image:
+### bird:
 ![](https://github.com/KVM-Projects/FlappyBird/blob/main/data/bird.png)
 ### preview:
 ![](https://github.com/KVM-Projects/FlappyBird/blob/main/data/video.gif)
