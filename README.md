@@ -37,6 +37,7 @@ Score counting is the interesting for user. By the score the player knows his/he
 ### Software specifications
 * Windows 64/32 bit.
 * [PROCESSING](https://processing.org/): IDE (Integrated Development Environment) contains a code editor, a compiler or interpreter, and a debugger, accessed through a single graphical user interchange (GUI).
+* You can download it [here](https://download.processing.org/processing-3.5.4-windows64.zip).
 
 ### Hardware specifications(minimum)
 * Pentium 3 processor.
