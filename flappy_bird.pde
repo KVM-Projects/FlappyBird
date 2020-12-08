@@ -81,7 +81,6 @@ void drawStartScreen() {
 
 
 void detectCollision() {
-  // Da li je ptica izašla iz ekrana?
   if (bird.y > height || bird.y < 0) {
     gameOver = true;
   }
